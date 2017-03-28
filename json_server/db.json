@@ -1,0 +1,16 @@
+{
+
+		"properties":[
+			{"price": 100000,"type":"Feature","geometry":{"type":"Point","coordinates":[-0.270404, 51.62247]}},
+			{"price": 150000,"type":"Feature","geometry":{"type":"Point","coordinates":[-2.004195, 53.472954]}},
+			{"price": 200000,"type":"Feature","geometry":{"type":"Point","coordinates":[-2.016793, 53.443707]}},
+			{"price": 250000,"type":"Feature","geometry":{"type":"Point","coordinates":[0.83556, 52.737865]}},
+			{"price": 300000,"type":"Feature","geometry":{"type":"Point","coordinates":[-2.994285, 53.1798]}},
+			{"price": 350000,"type":"Feature","geometry":{"type":"Point","coordinates":[0.195163, 51.533283]}},
+			{"price": 400000,"type":"Feature","geometry":{"type":"Point","coordinates":[0.643737, 51.371056]}},
+			{"price": 450000,"type":"Feature","geometry":{"type":"Point","coordinates":[-1.24526, 51.40604]}},
+			{"price": 500000,"type":"Feature","geometry":{"type":"Point","coordinates":[-0.626642, 51.47119]}},
+			{"price": 100000,"type":"Feature","geometry":{"type":"Point","coordinates":[-0.168172, 51.227356]}}
+		]
+
+}
